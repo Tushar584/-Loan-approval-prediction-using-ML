@@ -27,7 +27,7 @@ The data used for this project comes from the [Kaggle Loan Amount Prediction dat
 ## Results
 The top 3 models (using default parameters) and their performance are as follows:
 
-| Model               | RMSE (Range: 0 - 400,000) |
+| Model with the best hyperparameter| RMSE (Range: 0 - 400,000) |
 |---------------------|---------------------------|
 | Random Forest       | 20,784.89                 |
 | Bagging             | 20,723.30                 |
