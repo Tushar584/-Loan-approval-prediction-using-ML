@@ -22,7 +22,7 @@ The data used for this project comes from the [Kaggle Loan Amount Prediction dat
 3. **Multivariate Correlation Analysis**
 
 ## Tech Stack
-- **Python** (Refer to `requirements.txt` for a list of packages used in this project)
+- **Python** 
 
 ## Results
 The top 3 models (using default parameters) and their performance are as follows:
