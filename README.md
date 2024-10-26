@@ -33,11 +33,11 @@ The top 3 models (using default parameters) and their performance are as follows
 | Bagging             | 20,723.30                 |
 | Gradient Boosting   | 26,674.35                 |
 
--_ **Final Model Used**: Random Forest
-- **Metric Used**: RMSE (Root Mean Squared Error)_
+- **Final Model Used**: Random Forest
+- **Metric Used**: RMSE (Root Mean Squared Error)
 
-**Why choose Random Forest while Bagging yields the best results?**  
-Although Bagging produced the lowest RMSE, Random Forest was selected because it consistently produced the lowest RMSE during parameter tuning.
+**Q->Why choose Random Forest while Bagging yields the best results?**  
+Ans->Although Bagging produced the lowest RMSE, Random Forest was selected because it consistently produced the lowest RMSE during parameter tuning.
 
 ## Lessons Learned and Recommendations
 Through this project, we found that the primary factors influencing the loan amount granted are:
